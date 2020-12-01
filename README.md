@@ -33,7 +33,7 @@ $ bundle install
 
 4. Затем запустить в терминале с помощью интерпретатора ruby файл main.rb
 ```bash
-$ bundle exec ruby ruby main.rb
+$ bundle exec ruby main.rb
 ```
 5. Играть
 
